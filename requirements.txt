@@ -1,0 +1,4 @@
+onnxruntime
+#onnxruntime-gpu  # if GPU is present in your system.
+opencv-python
+numpy
