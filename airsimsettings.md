@@ -72,10 +72,13 @@ A self-contained guide for camera-centric AirSim simulations with weather effect
 | 0 | Scene (RGB) |
 | 1 | DepthPlanar |
 | 2 | DepthPerspective |
-| 3 | Segmentation |
-| 4 | SurfaceNormals |
-| 5 | Infrared |
-| 6 | OpticalFlow |
+| 3 | DepthVis |
+| 4 | DisparityNormalized |
+| 5 | Segmentation |
+| 6 | SurfaceNormals |
+| 7 | Infrared |
+| 8 | OpticalFlow |
+| 9 | OpticalFlowVis |
 
 ---
 ## External Camera
